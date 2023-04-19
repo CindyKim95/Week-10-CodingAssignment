@@ -1,1 +1,1 @@
-For this week's assignment using HTML, Bootstrap, and Javascript, we will created a single web page that has a Bootstrap styled table representing our choice of data and Bootstrap styled form that allows users to add a new row to the table when clicking submit. 
+This project includes HTML, Bootstrap, and Javascript that created a single web page that has a Bootstrap styled table representing a To Do List and Bootstrap styled form that allows users to add a new row to the table when clicking submit. 
